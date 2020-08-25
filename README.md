@@ -53,7 +53,7 @@ First of all, you should install the following software and packages to use **Ha
 
 1. Download the repository by clicking on the button or type the following command in CMD to clone the repository
 
-`git clone ...`
+`git clone https://github.com/sabadinfelipe/haplosort.git`
 
 2. Into `image` directory, there are 60 seed image examples (30 haploids and 30 diploida). To predict them, run the following code:
 
