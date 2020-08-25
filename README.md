@@ -78,7 +78,7 @@ paper
 
 ## Acknowledgments
 
-I would like to thank Allogamous Plant Breeding Laboratory team for supporting in this project.
+I would like to thank **Allogamous Plant Breeding Laboratory** team for supporting in this project.
 
 Please report any question or bug to this [email](mailto:felipe.sabadin@usp.br).
 
