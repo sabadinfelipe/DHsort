@@ -4,8 +4,6 @@
 
 More details about the development of **Haplosort** are available on **paper**.
 
---- 
-
 ## Background
 
 *Doubled haploid* (DH) technology is employed to accelerate the development of new maize lines. Briefly, the DH technique consists of obtaining haploids individuals, identification od haploid within induction crosses, and an artificial chromosomal doubling of haploid seedlings. This method permits shorten the time used in this stage.
@@ -82,7 +80,6 @@ paper
 
 I would like to thank Allogamous Plant Breeding Laboratory team for supporting in this project.
 
----
 Please report any question or bug to this [email](mailto:felipe.sabadin@usp.br).
 
 ## More about us
