@@ -49,7 +49,7 @@ First of all, you should install the following software and packages to use **Ha
 * Keras (<https://keras.io/>)
 * other packages
 
-### ***How to run the application?***
+### ***How to run the HaploSort?***
 
 1. Download the repository by clicking on the button or type the following command in CMD to clone the repository
 
