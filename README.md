@@ -60,7 +60,7 @@ First of all, you should install the following software and packages to use **Ha
 
 `python haplosort.py`
 
-**3.** Results are stored in an `output.csv` file, which contains two columns: `file_name` and `phenotype`. The `file_name` column is composed of image filenames, whereas the `phenotype` column is its prediction. Below, it follows an output example:
+**3.** Results are stored in an `output.csv` file, which contains two columns: `file_name` and `phenotype`. The `file_name` column is composed of image filenames, whereas the `phenotype` column is its prediction. **D** refers to diploid and **H** refers to a haploid seed. Below, it follows an output example:
 
 **file_name**|**phenotype**
 :---------:|:---------:
