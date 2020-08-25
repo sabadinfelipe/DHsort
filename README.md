@@ -81,6 +81,8 @@ paper
 
 I would like to thank **Allogamous Plant Breeding Laboratory** team for supporting in this project.
 
+## Contact
+
 Please report any question or bug to this [email](mailto:felipe.sabadin@usp.br).
 
 ## More about us
