@@ -52,15 +52,15 @@ First of all, you should install the following software and packages to use **Ha
 
 ### ***How to run the HaploSort?***
 
-1. Download the repository by clicking on the button or type the following command in CMD to clone the repository
+**1.** Download the repository by clicking on the button or type the following command in CMD to clone the repository
 
 `git clone https://github.com/sabadinfelipe/haplosort.git`
 
-2. Into `dataset` directory, there are 60 seed image examples (30 haploids and 30 diploida). To predict them, run the following code:
+**2.** Into `dataset` directory, there are 60 seed image examples (30 haploids and 30 diploida). To predict them, run the following code:
 
-`python3 haplosort.py`
+`python haplosort.py`
 
-3. Results are stored in an `output.csv` file, which contains two columns: `file_name` and `phenotype`. The `file_name` column is composed of image filenames, whereas the `phenotype` column is its prediction. Below, it follows an output example:
+**3.** Results are stored in an `output.csv` file, which contains two columns: `file_name` and `phenotype`. The `file_name` column is composed of image filenames, whereas the `phenotype` column is its prediction. Below, it follows an output example:
 
 **file_name**|**phenotype**
 :---------:|:---------:
