@@ -47,7 +47,8 @@ First of all, you should install the following software and packages to use **Ha
 * Python 3 (<https://www.python.org/>)
 * Tensorflow (<https://www.tensorflow.org/>)
 * Keras (<https://keras.io/>)
-* other packages
+* numpy
+* pandas
 
 ### ***How to run the HaploSort?***
 
@@ -55,7 +56,7 @@ First of all, you should install the following software and packages to use **Ha
 
 `git clone https://github.com/sabadinfelipe/haplosort.git`
 
-2. Into `image` directory, there are 60 seed image examples (30 haploids and 30 diploida). To predict them, run the following code:
+2. Into `dataset` directory, there are 60 seed image examples (30 haploids and 30 diploida). To predict them, run the following code:
 
 `python3 haplosort.py`
 
@@ -70,7 +71,7 @@ diploid_10.jpg | D
 
 ### ***Predicting your image dataset***
 
-- If you want to predict your seed images, delete image files into the `image`directory, and move your image dataset to it. After, run the `haplosort.py` script to predict them. It will create an `output.csv` file containing the predictions. 
+If you want to predict your seed images, delete image files into the `dataset`directory, and move your image dataset to it. After, run the `haplosort.py` script to predict them. It will create an `output.csv` file containing the predictions. 
 
 ## Citation
 
