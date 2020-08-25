@@ -11,7 +11,7 @@ In maize, the principal method applied to obtain haploid individuals is using an
 
 **diploid (D)**|**haploid (H)**|**inhibited (I)**
 :---------:|:---------:|:--------:
-<img src='./img/PD02B_19F.jpg' width='100x'/> | <img src='./img/PH22B_06F.jpg' width='100x'/> | <img src='./img/PI22A_13F.jpg' width='100x'/>
+<img src='./img/D.jpg' width='100x'/> | <img src='./img/H.jpg' width='100x'/> | <img src='./img/I.jpg' width='100x'/>
 
 However, the anthocyanin expressiveness is variable, which makes it difficult to distinguish between seed classes. We developed a CNN model to classify accurately haploid maize seeds using *R1-nj* avoiding sorting mistakes.
 
@@ -32,7 +32,7 @@ Precision | **92.13**
 Fscore | **94.54**
 
 </td>
-        <td> <img src='./img/perf.jpg' width='250x'/> </td>
+        <td> <img src='./img/cnn_performance.jpg' width='250x'/> </td>
     </tr>
 </table>
 
