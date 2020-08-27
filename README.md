@@ -1,8 +1,8 @@
-# HaploSort
+# DHSort
 
-**HaploSort** is a *convolutional neural network (CNN)* develop to classify haploid maize seeds based on seed images obtained from induction progenies using haploid inducers equipped with the *R1-nj* marker.
+**DHSort** is a *convolutional neural network (CNN)* develop to classify haploid maize seeds based on seed images obtained from induction progenies using haploid inducers equipped with the *R1-nj* marker.
 
-More details about the development of **Haplosort** are available on **paper**.
+More details about the development of **DHSort** are available on **paper**.
 
 ## Background
 
@@ -17,7 +17,7 @@ However, the anthocyanin expressiveness is variable, which makes it difficult to
 
 ## Performance
 
-HaploSort was highly accurate for maize haploid seed sorting task. Below are the performance metrics:
+DHSort was highly accurate for maize haploid seed sorting task. Below are the performance metrics:
 
 <table border='0'>
     <tr>
@@ -42,7 +42,7 @@ Fscore | **94.54**
 
 ### ***Packages***
 
-First of all, you should install the following software and packages to use **Haplosort**:
+First of all, you should install the following software and packages to use **DHSort**:
 
 * Python 3 (<https://www.python.org/>)
 * Tensorflow (<https://www.tensorflow.org/>)
@@ -50,7 +50,7 @@ First of all, you should install the following software and packages to use **Ha
 * numpy
 * pandas
 
-### ***How to run the HaploSort?***
+### ***How to run the DHSort?***
 
 **1.** Download the repository by clicking on the button or type the following command in CMD to clone the repository
 
@@ -88,5 +88,3 @@ Please report any question or bug to this [email](mailto:felipe.sabadin@usp.br).
 ## More about us
 
 [Allogamous Plant Breeding Lab, University of São Paulo - Brazil](http://www.genetica.esalq.usp.br/alogamas/)
-
-
