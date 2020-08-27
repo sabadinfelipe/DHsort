@@ -54,11 +54,11 @@ First of all, you should install the following software and packages to use **DH
 
 **1.** Download the repository by clicking on the button or type the following command in CMD to clone the repository
 
-`git clone https://github.com/sabadinfelipe/haplosort.git`
+`git clone https://github.com/sabadinfelipe/DHsort.git`
 
 **2.** Into `dataset` directory, there are 60 seed image examples (30 haploids and 30 diploida). To predict them, run the following code:
 
-`python haplosort.py`
+`python DHsort.py`
 
 **3.** Results are stored in an `output.csv` file, which contains two columns: `file_name` and `phenotype`. The `file_name` column is composed of image filenames, whereas the `phenotype` column is its prediction. **D** refers to diploid and **H** refers to a haploid seed. Below, it follows an output example:
 
@@ -71,7 +71,7 @@ diploid_10.jpg | D
 
 ### ***Predicting your image dataset***
 
-If you want to predict your seed images, delete image files into the `dataset`directory, and move your image dataset to it. After, run the `haplosort.py` script to predict them. It will create an `output.csv` file containing the predictions. 
+If you want to predict your seed images, delete image files into the `dataset`directory, and move your image dataset to it. After, run the `DHsort.py` script to predict them. It will create an `output.csv` file containing the predictions. 
 
 ## Citation
 
