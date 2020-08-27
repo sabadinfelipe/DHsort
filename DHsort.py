@@ -1,5 +1,5 @@
 ####################################################################
-# HaploSort: A CNN model to classify haploid maize seeds
+# DHSort: A CNN model to classify haploid maize seeds
 # Allogamous Plant Breeding Lab
 # Author: Felipe Sabadin (felipe.sabadin@usp.br)
 #####################################################################
