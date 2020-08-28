@@ -2,7 +2,7 @@
 
 **DHSort** is a *convolutional neural network (CNN)* develop to classify haploid maize seeds based on seed images obtained from induction progenies using haploid inducers equipped with the *R1-nj* marker.
 
-More details about the development of **DHSort** are available on **paper**.
+More details about the development of **DHSort** are available on **Improving the identification of haploid maize seeds using Convolutional Neural Networks**.
 
 ## Background
 
@@ -75,7 +75,7 @@ If you want to predict your seed images, delete image files into the `dataset`di
 
 ## Citation
 
-paper
+*Improving the identification of haploid maize seeds using Convolutional Neural Networks*
 
 ## Acknowledgments
 
