@@ -71,7 +71,7 @@ diploid_10.jpg | D
 
 ### ***Predicting your image dataset***
 
-If you want to predict your seed images, delete image files into the `dataset`directory, and move your image dataset to it. After, run the `DHsort.py` script to predict them. It will create an `output.csv` file containing the predictions. 
+If you want to predict your seed images, delete image files into the `dataset`directory, and move your image dataset to it. **Seed images should have a black background**. After, run the `DHsort.py` script to predict them. It will create an `output.csv` file containing the predictions. 
 
 ## Citation
 
