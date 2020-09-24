@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/sabadinfelipe/https://githubcom/sabadinfelipe/DHsort.svg)](http://hits.dwyl.com/sabadinfelipe/https://githubcom/sabadinfelipe/DHsort)
+
 # DHSort
 
 **DHSort** is a *convolutional neural network (CNN)* develop to classify haploid maize seeds based on seed images obtained from induction progenies using haploid inducers equipped with the *R1-nj* marker.
