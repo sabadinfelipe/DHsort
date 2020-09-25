@@ -6,7 +6,7 @@ More details about the development of **DHSort** are available on **Improving th
 
 ## Background
 
-*Doubled haploid* (DH) technology is employed to accelerate the development of new maize lines. Briefly, the DH technique consists of obtaining haploids individuals, identification od haploid within induction crosses, and an artificial chromosomal doubling of haploid seedlings. This method permits shorten the time used in this stage.
+*Doubled haploid* (DH) technology is employed to accelerate the development of new maize lines. Briefly, the DH technique consists of obtaining haploids individuals, identification of haploid within induction crosses, and an artificial chromosomal doubling of haploid seedlings. This method permits shorten the time used in this stage.
 In maize, the principal method applied to obtain haploid individuals is using an *in vivo* haploid inducer. These inducers are genotypes that have a high rate of haploid individuals in their progenies. Overall, seeds obtained from induction crosses can be haploids or diploids, and the main system used to sort them is the *R1-nj* marker, according to images below:
 
 **diploid (D)**|**haploid (H)**|**inhibited (I)**
