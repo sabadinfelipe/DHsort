@@ -79,7 +79,7 @@ If you want to predict your seed images, delete image files into the `dataset`di
 
 ## Citation
 
-*Improving the identification of haploid maize seeds using Convolutional Neural Networks*
+Sabadin, F., Galli, G., Borsato, R., Jr, Gevartosky, R., Campos, G.R. and Fritsche‐Neto, R. (2021), **Improving the identification of haploid maize seeds using convolutional neural networks**. *Crop Science*. <https://doi.org/10.1002/csc2.20487>
 
 ## Acknowledgments
 
@@ -87,7 +87,7 @@ I would like to thank **Allogamous Plant Breeding Laboratory** team for supporti
 
 ## Contact
 
-Please report any question or bug to this [email](mailto:felipe.sabadin@usp.br).
+Please report any question or bug to this [email](mailto:felipe.sabadin@alumni.usp.br).
 
 ## More about us
 
