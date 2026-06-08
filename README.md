@@ -1,13 +1,13 @@
 # DHSort
 
-**DHSort** is a *convolutional neural network (CNN)* develop to classify haploid maize seeds based on seed images obtained from induction progenies using haploid inducers equipped with the *R1-nj* marker.
+**DHSort** is a *convolutional neural network (CNN)* developed to classify haploid maize seeds based on seed images obtained from induction progenies using haploid inducers equipped with the *R1-nj* marker.
 
-More details about the development of **DHSort** are available on **Improving the identification of haploid maize seeds using Convolutional Neural Networks**.
+More details on the development of **DHSort** are available in the paper entitled **"Improving the identification of haploid maize seeds using Convolutional Neural Networks"**.
 
 ## Background
 
-*Doubled haploid* (DH) technology is employed to accelerate the development of new maize lines. Briefly, the DH technique consists of obtaining haploids individuals, identification of haploid within induction crosses, and an artificial chromosomal doubling of haploid seedlings. This method permits shorten the time used in this stage.
-In maize, the principal method applied to obtain haploid individuals is using an *in vivo* haploid inducer. These inducers are genotypes that have a high rate of haploid individuals in their progenies. Overall, seeds obtained from induction crosses can be haploids or diploids, and the main system used to sort them is the *R1-nj* marker, according to images below:
+*Doubled haploid* (DH) technology is employed to accelerate the development of new maize lines. Briefly, the DH technique consists of: 1) obtaining haploid individuals; 2) identification of haploid within induction crosses, and 3) artificial chromosomal doubling of haploid seedling cells. This method shortens the time used to develop new pure lines.
+In maize, the principal method to obtain haploid individuals is through *in vivo* haploid inducers. These inducers are genotypes that have a high rate of haploid individuals in their progenies. Overall, seeds obtained from induction crosses can be haploids or diploids, and the main system used to sort them is the *R1-nj* marker, according to images below:
 
 **diploid (D)**|**haploid (H)**|**inhibited (I)**
 :---------:|:---------:|:--------:
